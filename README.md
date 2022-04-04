@@ -9,8 +9,10 @@ make install
 cd server 
 sudo -E ethosRun -t (batch mode)
 or
-sudo -E ethosRun
 
+
+sudo -E ethosRun
+Then
 Open another terminal and navigate to server.
 etAl server.ethos
 
