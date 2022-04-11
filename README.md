@@ -13,6 +13,7 @@ sudo -E ethosRun -t (batch mode)
 or
 
 sudo -E ethosRun
+
 Then open another terminal and navigate to server.
 
 
