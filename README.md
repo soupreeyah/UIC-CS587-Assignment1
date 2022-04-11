@@ -6,7 +6,9 @@ All transfers and errors are written to logs.
 
 To execute: 
 make install
+
 cd server 
+
 sudo -E ethosRun -t (batch mode)
 or
 
@@ -14,7 +16,11 @@ or
 sudo -E ethosRun
 Then
 Open another terminal and navigate to server.
+
+
 etAl server.ethos
 
 For new instances:
+
+
 et server.ethos
