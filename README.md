@@ -12,10 +12,8 @@ cd server
 sudo -E ethosRun -t (batch mode)
 or
 
-
 sudo -E ethosRun
-Then
-Open another terminal and navigate to server.
+Then open another terminal and navigate to server.
 
 
 etAl server.ethos
