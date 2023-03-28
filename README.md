@@ -13,6 +13,7 @@ Open one terminal
 make install
 
 cd server //here server is the folder in which the filesystem is created 
+
 sudo -E ethosRun -t (batch mode)
 
 
