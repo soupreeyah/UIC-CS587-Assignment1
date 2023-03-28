@@ -1,4 +1,4 @@
-Assignment 1: Ethos
+Assignment 1: Ethos - Spring 2022
 
 Creation of a AccountServer and one or more AccountClients in Go. 
 The AccountServer will initialize a set of accounts, and then process requests from the clients, updating the accounts stored in the file system.
