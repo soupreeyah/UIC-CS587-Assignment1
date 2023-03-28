@@ -5,14 +5,21 @@ The AccountServer will initialize a set of accounts, and then process requests f
 All transfers and errors are written to logs.
 
 To execute: 
+
+
+Open one terminal
+
+
 make install
-
 cd server //here server is the folder in which the filesystem is created 
-
 sudo -E ethosRun -t (batch mode)
+
+
 or
 
+
 sudo -E ethosRun
+
 
 Then open another terminal and navigate to server.
 
